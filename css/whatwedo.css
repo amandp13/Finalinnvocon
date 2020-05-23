@@ -1,0 +1,23 @@
+  .rgba-gradient {
+    background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
+    background: -webkit-gradient(linear, 45deg, from(rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%)));
+    background: linear-gradient(to 45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
+  }
+    
+  .mt-5 h6{
+    font-size: 17px;
+  }
+
+  .mt-4 h6{
+    font-size: 17px;
+  }
+
+  .para{  
+  font-size: 16px;
+  text-align: justify;
+  line-height: 15pt;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-right: 10px;
+  padding-left: 0px;
+  }
