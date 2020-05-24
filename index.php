@@ -459,7 +459,7 @@
                               <div class="error"></div>
                               
                               <div class="form loginBox">
-                                  <form method="POST"  data-remote="true" action="" accept-charset="UTF-8">
+                                  <form method="POST"  data-remote="true" action="POST" data-netlify="true" accept-charset="UTF-8">
                                    <?php include('errors.php') ?>
                                   <input id="name" class="form-control" type="text" placeholder="Name" name="name" required>
                                   <input id="email" class="form-control" type="text" placeholder="Email" name="email" required>
